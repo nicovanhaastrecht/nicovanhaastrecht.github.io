@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Nico van Haastrecht - Electrical engineering en Coaching</title>
+    <link href="https://nicovanhaastrecht.nl/feed.xml" rel="self" />
+    <link href="https://nicovanhaastrecht.nl" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Nico van Haastrecht</name>
+    </author>
+    <id>https://nicovanhaastrecht.nl</id>
+
+</feed>

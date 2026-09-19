@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nico van Haastrecht - Electrical engineering en Coaching",
+    "description": "",
+    "home_page_url": "https://nicovanhaastrecht.nl",
+    "feed_url": "https://nicovanhaastrecht.nl/feed.json",
+    "user_comment": "",
+    "icon": "https://nicovanhaastrecht.nl/media/website/ICON-NICOvH-ENGINEER.png",
+    "author": {
+        "name": "Nico van Haastrecht"
+    },
+    "items": [
+    ]
+}
