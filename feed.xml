@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>nicovanhaastrecht.nl</title>
-    <link href="https://nicovanhaastrecht.nl/feed.xml" rel="self" />
-    <link href="https://nicovanhaastrecht.nl" />
+    <title>nicovanhaastrecht.com</title>
+    <link href="https://nicovanhaastrecht.com/feed.xml" rel="self" />
+    <link href="https://nicovanhaastrecht.com" />
     <updated>2026-09-19T18:41:04+02:00</updated>
     <author>
         <name>Nico van Haastrecht</name>
     </author>
-    <id>https://nicovanhaastrecht.nl</id>
+    <id>https://nicovanhaastrecht.com</id>
 
     <entry>
         <title>Klanten en projecten</title>
         <author>
             <name>Nico van Haastrecht</name>
         </author>
-        <link href="https://nicovanhaastrecht.nl/klanten-en-projecten-2.html"/>
-        <id>https://nicovanhaastrecht.nl/klanten-en-projecten-2.html</id>
+        <link href="https://nicovanhaastrecht.com/klanten-en-projecten-2.html"/>
+        <id>https://nicovanhaastrecht.com/klanten-en-projecten-2.html</id>
 
         <updated>2026-09-19T18:41:04+02:00</updated>
             <summary type="html">
